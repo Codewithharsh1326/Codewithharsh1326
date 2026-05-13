@@ -47,9 +47,9 @@ Feel free to reach out to me for collaborative work—be it designing custom CNN
 
 <div align="center">
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codewithharsh1326&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Harsh's GitHub Stats](https://github-readme-stats-sand-phi-68.cercel.app/api?username=Codewithharsh1326&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithharsh1326&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats-sand-phi-68.cercel.app/api/top-langs/?username=Codewithharsh1326&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
@@ -59,8 +59,8 @@ Feel free to reach out to me for collaborative work—be it designing custom CNN
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codewithharsh1326&repo=OTA-Shrike-lite_FPGA-Programming&theme=tokyonight&hide_border=true)](https://github.com/Codewithharsh1326/OTA-Shrike-lite_FPGA-Programming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Codewithharsh1326&repo=litex-nvdla-cva6&theme=tokyonight&hide_border=true)](https://github.com/Codewithharsh1326/litex-nvdla-cva6)
+[![Readme Card](https://github-readme-stats-sand-phi-68.cercel.app/api/pin/?username=Codewithharsh1326&repo=OTA-Shrike-lite_FPGA-Programming&theme=tokyonight&hide_border=true)](https://github.com/Codewithharsh1326/OTA-Shrike-lite_FPGA-Programming)
+[![Readme Card](https://github-readme-stats-sand-phi-68.cercel.app/api/pin/?username=Codewithharsh1326&repo=litex-nvdla-cva6&theme=tokyonight&hide_border=true)](https://github.com/Codewithharsh1326/litex-nvdla-cva6)
 
 </div>
 
